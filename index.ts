@@ -1,1 +1,1 @@
-console.log("hello this is my hello here");
+console.log("this is my main");
